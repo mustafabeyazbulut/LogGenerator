@@ -1,0 +1,9 @@
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.csproj.AssemblyReference.cache
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.csproj.CoreCompileInputs.cache
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\bin\Debug\Veriket.Service.exe.config
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\bin\Debug\Veriket.Service.exe
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\bin\Debug\Veriket.Service.pdb
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.exe
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.pdb
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.ProjectInstaller.resources
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Debug\Veriket.Service.csproj.GenerateResource.cache

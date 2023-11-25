@@ -1,0 +1,16 @@
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.AssemblyInfoInputs.cache
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.AssemblyInfo.cs
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.csproj.CoreCompileInputs.cache
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\bin\Debug\net8.0-windows\Veriket.Winform.exe
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\bin\Debug\net8.0-windows\Veriket.Winform.deps.json
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\bin\Debug\net8.0-windows\Veriket.Winform.runtimeconfig.json
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\bin\Debug\net8.0-windows\Veriket.Winform.dll
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\bin\Debug\net8.0-windows\Veriket.Winform.pdb
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.dll
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\refint\Veriket.Winform.dll
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.pdb
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.genruntimeconfig.cache
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\ref\Veriket.Winform.dll
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.VeriketLogList.resources
+C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Winform\obj\Debug\net8.0-windows\Veriket.Winform.csproj.GenerateResource.cache

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veriket.Service", "Veriket.Service\Veriket.Service.csproj", "{970C47B3-0679-4857-9C0A-2890904E9AF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veriket.Winform", "Veriket.Winform\Veriket.Winform.csproj", "{DD6D63EF-B85E-4709-9092-2ED3B42A1C0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Veriket.Setup", "Veriket.Setup\Veriket.Setup.vdproj", "{75A1E8A5-32CE-4142-B969-14232E3C8D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970C47B3-0679-4857-9C0A-2890904E9AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C47B3-0679-4857-9C0A-2890904E9AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C47B3-0679-4857-9C0A-2890904E9AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C47B3-0679-4857-9C0A-2890904E9AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6D63EF-B85E-4709-9092-2ED3B42A1C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6D63EF-B85E-4709-9092-2ED3B42A1C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6D63EF-B85E-4709-9092-2ED3B42A1C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6D63EF-B85E-4709-9092-2ED3B42A1C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A1E8A5-32CE-4142-B969-14232E3C8D6B}.Debug|Any CPU.ActiveCfg = Debug
+		{75A1E8A5-32CE-4142-B969-14232E3C8D6B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8462A02B-211C-4FDC-9642-9C43177FAAA3}
+	EndGlobalSection
+EndGlobal
