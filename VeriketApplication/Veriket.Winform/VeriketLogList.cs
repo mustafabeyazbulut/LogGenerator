@@ -1,5 +1,4 @@
 ﻿using System.Data;
-using System.Windows.Forms;
 
 namespace Veriket.Winform
 {
@@ -9,18 +8,13 @@ namespace Veriket.Winform
         {
             InitializeComponent();
         }
-
         private void LoadLogToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // path değişkeninde belirtilen dizindeki CSV dosyasını okuma
             string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), "VeriketApp");
             string filePath = Path.Combine(path, "VeriketAppTest.txt");
-
             if (File.Exists(filePath))
             {
                 DataTable dataTable = LoadCsvFile(filePath);
-
-                // DataGridView'e verileri bağlama
                 dataGridView1.DataSource = dataTable;
             }
             else
@@ -31,7 +25,6 @@ namespace Veriket.Winform
         private DataTable LoadCsvFile(string filePath)
         {
             DataTable dataTable = new DataTable();
-
             try
             {
                 using (StreamReader reader = new StreamReader(filePath))
@@ -42,7 +35,6 @@ namespace Veriket.Winform
                     {
                         dataTable.Columns.Add(header);
                     }
-
                     // Geriye kalan satırları ekliyorum.
                     while (!reader.EndOfStream)
                     {
@@ -60,7 +52,6 @@ namespace Veriket.Winform
             {
                 MessageBox.Show("Dosya okuma hatası: " + ex.Message, "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
             return dataTable;
         }
     }

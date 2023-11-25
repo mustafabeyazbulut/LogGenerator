@@ -7,3 +7,12 @@ C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Release\
 C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Release\Veriket.Service.csproj.CoreCompileInputs.cache
 C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Release\Veriket.Service.exe
 C:\Users\mbeyazbulut\Desktop\VeriketApplicationTest\Veriket.Service\obj\Release\Veriket.Service.pdb
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\bin\Release\Veriket.Service.exe.config
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\bin\Release\Veriket.Service.exe
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\bin\Release\Veriket.Service.pdb
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.csproj.AssemblyReference.cache
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.ProjectInstaller.resources
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.csproj.GenerateResource.cache
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.csproj.CoreCompileInputs.cache
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.exe
+C:\Users\mbeyazbulut\Documents\GitHub\VeriketApp\VeriketApplication\Veriket.Service\obj\Release\Veriket.Service.pdb

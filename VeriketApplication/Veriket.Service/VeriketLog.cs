@@ -9,7 +9,6 @@ namespace Veriket.Service
         {
             StreamWriter sw = null;
             string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), "VeriketApp");
-
             try
             {
                 if (!Directory.Exists(path))
@@ -17,7 +16,6 @@ namespace Veriket.Service
                     Directory.CreateDirectory(path);
                 }
                 string filePath = Path.Combine(path, "VeriketAppTest.txt");
-
                 if (!File.Exists(filePath))
                 {
                     using (StreamWriter headerWriter = new StreamWriter(filePath))
@@ -25,7 +23,6 @@ namespace Veriket.Service
                         headerWriter.WriteLine("Tarih,Bilgisayar Adı,Windowsta Oturum Açan Kullanıcı Adı");
                     }
                 }
-
                 sw = new StreamWriter(filePath, true);
                 sw.WriteLine($"{dateNow},{computerName},{userName}");
                 sw.Flush();
@@ -38,8 +35,6 @@ namespace Veriket.Service
             {
                 sw?.Close();
             }
-
         }
-
     }
 }

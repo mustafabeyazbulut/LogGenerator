@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_49187A02C31146B296528ADB766665BC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6BD189046A774C73A42226EDC4270C14"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -22,12 +28,6 @@
         "Entry"
         {
         "MsmKey" = "8:_9ED3F7C199F94872A60D7BC73196BD7A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CAF6AC2BD3794F5DBAE28B8003082767"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -106,6 +106,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -202,9 +210,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CAF6AC2BD3794F5DBAE28B8003082767"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_49187A02C31146B296528ADB766665BC"
             {
-            "SourcePath" = "8:..\\..\\veriket.ico"
+            "SourcePath" = "8:..\\Veriket.Winform\\icon\\veriket.ico"
             "TargetName" = "8:veriket.ico"
             "Tag" = "8:"
             "Folder" = "8:_4B9D79E426E04E97892D164FB26B3B92"
@@ -332,7 +340,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:VeriketApp"
         "ProductCode" = "8:{2A560794-D6BF-4053-A43F-CBD06E6A14F9}"
-        "PackageCode" = "8:{DC22E783-D96F-4B1F-BF45-5ADA038AF894}"
+        "PackageCode" = "8:{C4E00641-B71A-4ECF-9AF9-2C63E5A0A0A0}"
         "UpgradeCode" = "8:{BC21FEEE-661F-4713-BB80-C5457E5CFD57}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -349,7 +357,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:Verikat App Log List"
         "ARPURLINFOABOUT" = "8:https://www.veriket.com/"
-        "ARPPRODUCTICON" = "8:_CAF6AC2BD3794F5DBAE28B8003082767"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -452,7 +460,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4D4956FE4D0A4E31BF371C41E5385679"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_75239D5ADB5F46A9B5D45F3AEF183CA9"
             {
             "Name" = "8:VeriketApp"
             "Arguments" = "8:"
@@ -463,7 +471,7 @@
             "Target" = "8:_9ED3F7C199F94872A60D7BC73196BD7A"
             "Folder" = "8:_556CE38434594A178ECA0EC71B4FF07B"
             "WorkingFolder" = "8:_4B9D79E426E04E97892D164FB26B3B92"
-            "Icon" = "8:_CAF6AC2BD3794F5DBAE28B8003082767"
+            "Icon" = "8:_49187A02C31146B296528ADB766665BC"
             "Feature" = "8:"
             }
         }
@@ -867,7 +875,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6BD189046A774C73A42226EDC4270C14"
             {
-            "SourcePath" = "8:"
+            "SourcePath" = "8:..\\Veriket.Service\\obj\\Release\\Veriket.Service.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1626BE91ABB946398B5A2E34802D7392"

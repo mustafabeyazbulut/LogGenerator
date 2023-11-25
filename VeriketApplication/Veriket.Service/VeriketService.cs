@@ -34,7 +34,7 @@ namespace Veriket.Service
             while (!cancellationToken.IsCancellationRequested)
             {
                 VeriketLog.writeEventLog(DateTime.Now, GetEnvironment.MachineName(), GetEnvironment.UserName());
-                await Task.Delay(60000, cancellationToken); // 1 dakika
+                await Task.Delay(60000, cancellationToken); 
             }
         }
         protected override void OnStop()

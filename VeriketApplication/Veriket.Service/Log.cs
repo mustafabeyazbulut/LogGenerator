@@ -13,14 +13,11 @@ namespace Veriket.Service
             {
                 string Date = System.DateTime.Now.ToString("dd-MM-yyyy");
                 string fullPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, path, $"ServiceLog {Date}.txt");
-
                 string directoryPath = Path.GetDirectoryName(fullPath);
-
                 if (!Directory.Exists(directoryPath))
                 {
                     Directory.CreateDirectory(directoryPath);
                 }
-
                 using (sw = new StreamWriter(fullPath, true))
                 {
                     sw.WriteLine(DateTime.Now.ToString() + ": " + Message);
@@ -32,7 +29,6 @@ namespace Veriket.Service
                 Console.WriteLine($"Hata oluştu: {ex.Message}");
                 throw;
             }
-
         }
     }
 }
