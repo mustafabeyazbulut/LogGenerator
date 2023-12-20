@@ -1,4 +1,4 @@
-# VeriketApp Generator Log and Log List
+# Log Generator and Log List
 This application is developed using the C# programming language with the .Net Framework.
 1. There are 2 projects and a setup within a Solution.
 <pre>
